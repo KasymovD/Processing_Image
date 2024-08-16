@@ -13,7 +13,3 @@ env/
 .DS_Store
 Thumbs.db
 
-kcgData
-clustered_images
-processed_images
-
